@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+*{
+    
+    
+    background-color: black;
+    background-position: cover;
+    color: aliceblue;
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+table{
+    font-size: x-large;
+ 
+    padding-left: 20px;
+    justify-items: center;
+    filter: drop-shadow(05px 10px 10px white);
+   border-radius: 20px;
+}
+button{
+    font-size: x-large;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 100px;
+    justify-items: center;
+    
+
+}
+table h1{
+    width:300;
+    text-align: center;
+}
+input{
+    font-size: large;
+    border-radius: 30px;
+    text-align: center;
+}
+.container
+{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
